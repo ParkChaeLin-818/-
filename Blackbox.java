@@ -1,14 +1,19 @@
 
 /**
- * ABC수족관 입장료를 계산 하는 메소드
+ * ABC수족관 입장료를 계산하는 메소드
  * 
- * @author (작성자 이름) 
- * @version (버전번호나 날짜)
+ * @author (박채린,마츠바라 케이토,이와사키 메구미) 
+ * @version (20200603)
  */
 public class Blackbox
 {
+    /**
+     * calculate = 수족관 입장료를 계산하는 메소드
+     * @param = age
+     * return 타입은 int 입니다.
+     */
     int age = 0;
-    public  int caluculate(int age){
+    public  int calculate(int age){
         if ( age > 16){
             return 2000;
         }
