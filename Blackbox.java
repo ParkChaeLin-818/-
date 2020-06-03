@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 /**
  * 여기에 Blackbox 클래스 설명을 작성하십시오.
@@ -33,7 +32,6 @@ public class Blackbox
         
     }
 }
-=======
 
 /**
  * ABC수족관 입장료를 계산하는 메소드
@@ -68,8 +66,3 @@ public class Blackbox
         
     }
 }
-
-<<<<<<< HEAD
->>>>>>> 2d992c7cc721b0f993dc80573f8a5a87c412e2a4
-=======
->>>>>>> 2d992c7cc721b0f993dc80573f8a5a87c412e2a4
